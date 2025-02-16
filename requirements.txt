@@ -1,0 +1,18 @@
+# Web framework and server
+fastapi
+uvicorn
+
+# Data handling and requests
+requests
+httpx
+python-dateutil
+numpy
+
+# Utilities
+faker
+pillow
+
+# Optional: Logging and coverage tools (uncomment if needed)
+coverage
+pytest
+pytest-cov
